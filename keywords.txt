@@ -1,0 +1,11 @@
+Encoder	KEYWORD1
+setPins	KEYWORD2
+getRotation	KEYWORD2
+switchPressed	KEYWORD2
+stop	KEYWORD2
+start	KEYWORD2
+started	KEYWORD2
+activateRotationCounter	KEYWORD2
+activateEndlessCounter	KEYWORD2
+setCounterMinMax	KEYWORD2
+getRotationCounter	KEYWORD2
